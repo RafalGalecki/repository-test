@@ -1,3 +1,3 @@
-OPIS projektu
-# repository-test
+# Opis projrktu
+repository-test
 testing
